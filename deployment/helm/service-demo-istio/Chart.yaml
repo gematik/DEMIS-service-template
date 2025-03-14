@@ -1,0 +1,6 @@
+apiVersion: v2
+name: service-demo-istio
+description: DEMIS service-demo Istio Configuration
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
